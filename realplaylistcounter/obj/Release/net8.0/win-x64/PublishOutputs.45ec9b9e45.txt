@@ -1,0 +1,3 @@
+C:\Users\mahmu\OneDrive\Masaüstü\realplaylistcounter\realplaylistcounter\realplaylistcounter\bin\Release\net8.0\win-x64\publish\realplaylistcounter.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\realplaylistcounter\realplaylistcounter\realplaylistcounter\bin\Release\net8.0\win-x64\publish\appsettings.json
+C:\Users\mahmu\OneDrive\Masaüstü\realplaylistcounter\realplaylistcounter\realplaylistcounter\bin\Release\net8.0\win-x64\publish\realplaylistcounter.exe

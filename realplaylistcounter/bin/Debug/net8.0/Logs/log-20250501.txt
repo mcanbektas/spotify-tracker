@@ -1,0 +1,140 @@
+[2025-05-01 01:26:22.285 +03:00 INF] Application started.
+[2025-05-01 01:26:30.127 +03:00 ERR] Error while getting Access Token: {"error":"invalid_grant","error_description":"Invalid refresh token"}
+2025-05-01 01:30:28.522 +03:00 [INF] Application started.
+2025-05-01 01:30:40.015 +03:00 [ERR] Token alma sırasında hata: Bilinen böyle bir ana bilgisayar yok. (accounts.spotify.com:443)
+2025-05-01 01:30:40.017 +03:00 [ERR] Access token alınamadı.
+2025-05-01 12:05:43.383 +03:00 [INF] Application started.
+2025-05-01 12:05:48.642 +03:00 [INF] Track count: 218
+2025-05-01 12:05:49.070 +03:00 [INF] Playlist adı başarıyla güncellendi: 218
+2025-05-01 12:08:52.447 +03:00 [INF] Track count: 217
+2025-05-01 12:08:52.660 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 12:18:32.680 +03:00 [INF] Application started.
+2025-05-01 12:18:33.230 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 12:18:33.231 +03:00 [ERR] Refresh token alınamadı. Uygulama durduruluyor.
+2025-05-01 12:19:41.753 +03:00 [INF] Application started.
+2025-05-01 12:19:43.893 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 12:19:43.895 +03:00 [ERR] Refresh token alınamadı. Uygulama durduruluyor.
+2025-05-01 12:25:56.931 +03:00 [INF] Application started.
+2025-05-01 12:26:06.199 +03:00 [INF] Track count: 219
+2025-05-01 12:26:06.569 +03:00 [INF] Playlist adı başarıyla güncellendi: 219
+2025-05-01 12:36:18.558 +03:00 [INF] Track count: 217
+2025-05-01 12:36:18.803 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 12:39:55.045 +03:00 [INF] Application started.
+2025-05-01 12:39:55.581 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 12:39:55.583 +03:00 [ERR] Refresh token alınamadı. Uygulama durduruluyor.
+2025-05-01 12:40:27.548 +03:00 [INF] Application started.
+2025-05-01 12:40:28.550 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 12:40:28.552 +03:00 [ERR] Refresh token alınamadı. Uygulama durduruluyor.
+2025-05-01 12:52:28.126 +03:00 [INF] Application started.
+2025-05-01 12:52:36.234 +03:00 [INF] Track count: 217
+2025-05-01 12:52:36.520 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 13:02:44.439 +03:00 [INF] Track count: 217
+2025-05-01 13:02:44.629 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 13:13:04.935 +03:00 [INF] Track count: 217
+2025-05-01 13:13:05.126 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 13:18:21.015 +03:00 [INF] Application started.
+2025-05-01 13:18:21.508 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 13:18:21.510 +03:00 [ERR] Refresh token alınamadı. Uygulama sonlandırılıyor.
+2025-05-01 13:21:40.394 +03:00 [INF] Application started.
+2025-05-01 13:21:40.937 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 13:21:40.939 +03:00 [ERR] Refresh token alınamadı. Uygulama sonlandırılıyor.
+2025-05-01 13:22:03.742 +03:00 [INF] Application started.
+2025-05-01 13:22:04.254 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 13:22:04.257 +03:00 [ERR] Refresh token alınamadı. Uygulama sonlandırılıyor.
+2025-05-01 13:34:57.920 +03:00 [INF] Application started.
+2025-05-01 13:35:04.730 +03:00 [INF] Track count: 217
+2025-05-01 13:35:05.196 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 13:45:15.231 +03:00 [INF] Track count: 217
+2025-05-01 13:45:15.238 +03:00 [INF] Track count değişmedi, güncelleme yapılmadı.
+2025-05-01 13:45:40.061 +03:00 [INF] Application started.
+2025-05-01 13:45:40.487 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 13:45:40.489 +03:00 [ERR] Refresh token alınamadı. Uygulama sonlandırılıyor.
+[2025-05-01 13:51:16.762 +03:00 INF] Application started.
+[2025-05-01 13:51:17.351 +03:00 ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+[2025-05-01 13:51:17.352 +03:00 ERR] Refresh token alınamadı. Uygulama durduruluyor.
+2025-05-01 13:53:45.039 +03:00 [INF] Application started.
+2025-05-01 13:53:45.611 +03:00 [INF] Yeni refresh token alındı ve dosyaya kaydedildi.
+2025-05-01 13:53:49.339 +03:00 [INF] Track count: 217
+2025-05-01 13:53:49.658 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 14:03:58.438 +03:00 [INF] Track count: 217
+2025-05-01 14:03:58.652 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 14:06:07.683 +03:00 [INF] Application started.
+2025-05-01 14:06:12.585 +03:00 [INF] Track count: 217
+2025-05-01 14:06:12.843 +03:00 [INF] Playlist adı başarıyla güncellendi: 217
+2025-05-01 14:09:06.560 +03:00 [INF] Application started.
+2025-05-01 14:09:06.626 +03:00 [INF] Dosyada refresh token bulunamadı. Yeni token alınıyor...
+2025-05-01 14:09:07.061 +03:00 [ERR] Refresh token alınamadı: {"error":"invalid_grant","error_description":"Authorization code expired"}
+2025-05-01 14:09:07.063 +03:00 [ERR] Refresh token alınamadı. Uygulama durduruluyor.
+2025-05-01 17:14:05.003 +03:00 [INF] Application started.
+2025-05-01 17:14:05.515 +03:00 [INF] Eda için yeni refresh token kaydedildi.
+2025-05-01 17:14:05.515 +03:00 [INF] Can için yeni refresh token kaydedildi.
+2025-05-01 17:14:07.182 +03:00 [INF] [Can] Track count: 217
+2025-05-01 17:14:07.444 +03:00 [INF] [Can] Playlist adı güncellendi: 217
+2025-05-01 17:14:25.149 +03:00 [INF] [Eda] Track count: 2955
+2025-05-01 17:14:25.428 +03:00 [INF] [Eda] Playlist adı güncellendi: 2955
+2025-05-01 17:24:09.378 +03:00 [INF] [Can] Track count: 217
+2025-05-01 17:24:09.379 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 17:24:42.528 +03:00 [INF] [Eda] Track count: 2954
+2025-05-01 17:24:42.756 +03:00 [INF] [Eda] Playlist adı güncellendi: 2954
+2025-05-01 17:30:36.027 +03:00 [INF] Application started.
+2025-05-01 17:30:38.103 +03:00 [INF] [Can] Track count: 217
+2025-05-01 17:30:38.648 +03:00 [INF] [Can] Playlist adı zaten doğru, güncellenmedi.
+2025-05-01 17:37:56.328 +03:00 [INF] Application started.
+2025-05-01 17:41:35.521 +03:00 [INF] Application started.
+2025-05-01 17:43:08.119 +03:00 [INF] Application started.
+2025-05-01 17:54:20.580 +03:00 [INF] Application started.
+2025-05-01 17:54:24.124 +03:00 [INF] [Can] Track count: 219
+2025-05-01 17:54:24.403 +03:00 [INF] [Can] Playlist adı güncellendi: 219
+2025-05-01 17:54:41.166 +03:00 [INF] [Eda] Track count: 2954
+2025-05-01 17:54:41.361 +03:00 [INF] [Eda] Playlist adı güncellendi: 2954
+2025-05-01 18:04:26.510 +03:00 [INF] [Can] Track count: 218
+2025-05-01 18:04:26.674 +03:00 [INF] [Can] Playlist adı güncellendi: 218
+2025-05-01 18:04:58.779 +03:00 [INF] [Eda] Track count: 2959
+2025-05-01 18:04:59.006 +03:00 [INF] [Eda] Playlist adı güncellendi: 2959
+2025-05-01 18:14:28.633 +03:00 [INF] [Can] Track count: 218
+2025-05-01 18:14:28.640 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 18:15:16.685 +03:00 [INF] [Eda] Track count: 2959
+2025-05-01 18:15:16.689 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+[2025-05-01 18:20:24.065 +03:00 INF] Application started. 
+[2025-05-01 18:20:26.317 +03:00 INF] [Can] Track count: 218 
+[2025-05-01 18:20:26.599 +03:00 INF] [Can] Playlist adı güncellendi: 218 
+[2025-05-01 18:25:20.060 +03:00 INF] Application started. 
+[2025-05-01 18:25:22.333 +03:00 INF] [Can] Track count: 218 
+[2025-05-01 18:25:22.585 +03:00 INF] [Can] Playlist adı güncellendi: 218 
+2025-05-01 18:34:04.581 +03:00 [INF] Application started.
+2025-05-01 18:34:06.631 +03:00 [INF] [Can] Track count: 218
+2025-05-01 18:34:06.905 +03:00 [INF] [Can] Playlist adı güncellendi: 218
+2025-05-01 18:49:21.175 +03:00 [INF] Application started.
+2025-05-01 18:49:23.504 +03:00 [INF] [Can] Track count: 218
+2025-05-01 18:49:23.741 +03:00 [INF] [Can] Playlist adı güncellendi: 218
+2025-05-01 18:49:38.639 +03:00 [INF] [Eda] Track count: 2909
+2025-05-01 18:49:38.876 +03:00 [INF] [Eda] Playlist adı güncellendi: 2909
+2025-05-01 19:07:50.066 +03:00 [INF] Application started.
+2025-05-01 19:07:52.161 +03:00 [INF] [Can] Track count: 218
+2025-05-01 19:07:52.421 +03:00 [INF] [Can] Playlist adı güncellendi: 218
+2025-05-01 19:08:08.236 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 19:08:08.465 +03:00 [INF] [Eda] Playlist adı güncellendi: 2903
+2025-05-01 19:17:54.578 +03:00 [INF] [Can] Track count: 218
+2025-05-01 19:17:54.584 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:18:26.241 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 19:18:26.245 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:27:56.819 +03:00 [INF] [Can] Track count: 218
+2025-05-01 19:27:56.851 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:28:43.435 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 19:28:43.439 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:37:59.207 +03:00 [INF] [Can] Track count: 218
+2025-05-01 19:37:59.210 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:39:05.318 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 19:39:05.320 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:48:01.282 +03:00 [INF] [Can] Track count: 219
+2025-05-01 19:48:01.446 +03:00 [INF] [Can] Playlist adı güncellendi: 219
+2025-05-01 19:49:22.902 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 19:49:22.912 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:58:03.403 +03:00 [INF] [Can] Track count: 219
+2025-05-01 19:58:03.406 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 19:59:40.460 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 19:59:40.470 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 20:08:05.533 +03:00 [INF] [Can] Track count: 219
+2025-05-01 20:08:05.535 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-01 20:09:58.366 +03:00 [INF] [Eda] Track count: 2903
+2025-05-01 20:09:58.370 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.

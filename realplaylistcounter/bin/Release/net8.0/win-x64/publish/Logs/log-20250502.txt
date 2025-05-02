@@ -1,0 +1,36 @@
+2025-05-02 15:27:04.251 +03:00 [INF] Application started.
+2025-05-02 15:27:04.520 +03:00 [ERR] Eda için refresh token alınamadı.
+2025-05-02 15:27:04.520 +03:00 [ERR] Can için refresh token alınamadı.
+2025-05-02 15:36:43.421 +03:00 [INF] Application started.
+2025-05-02 15:36:45.485 +03:00 [INF] [Can] Track count: 244
+2025-05-02 15:36:45.718 +03:00 [INF] [Can] Playlist adı güncellendi: 244
+2025-05-02 15:37:01.606 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 15:37:01.802 +03:00 [INF] [Eda] Playlist adı güncellendi: 2903
+2025-05-02 15:37:47.319 +03:00 [INF] [Can] Track count: 244
+2025-05-02 15:37:47.323 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 15:38:19.849 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 15:38:19.850 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 15:38:48.917 +03:00 [INF] [Can] Track count: 244
+2025-05-02 15:38:48.918 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 15:43:08.793 +03:00 [INF] Application started.
+2025-05-02 15:43:11.812 +03:00 [INF] [Can] Track count: 244
+2025-05-02 15:43:12.044 +03:00 [INF] [Can] Playlist adı güncellendi: 244
+2025-05-02 15:43:29.070 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 15:43:29.237 +03:00 [INF] [Eda] Playlist adı güncellendi: 2903
+2025-05-02 15:44:13.638 +03:00 [INF] [Can] Track count: 244
+2025-05-02 15:44:13.640 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 15:44:47.845 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 15:44:47.848 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 16:09:44.552 +03:00 [INF] Application started.
+2025-05-02 16:09:46.968 +03:00 [INF] [Can] Track count: 244
+2025-05-02 16:09:47.223 +03:00 [INF] [Can] Playlist adı güncellendi: 244
+2025-05-02 16:10:04.591 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 16:10:04.786 +03:00 [INF] [Eda] Playlist adı güncellendi: 2903
+2025-05-02 16:10:49.054 +03:00 [INF] [Can] Track count: 244
+2025-05-02 16:10:49.058 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 16:11:23.247 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 16:11:23.249 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 16:11:50.728 +03:00 [INF] [Can] Track count: 244
+2025-05-02 16:11:50.730 +03:00 [INF] [Can] Track sayısı değişmedi, isim güncellenmedi.
+2025-05-02 16:12:45.638 +03:00 [INF] [Eda] Track count: 2903
+2025-05-02 16:12:45.641 +03:00 [INF] [Eda] Track sayısı değişmedi, isim güncellenmedi.
